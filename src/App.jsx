@@ -19,7 +19,6 @@ function App() {
 
   return (
     <>
-      <h1>Contact List</h1>
       <ContactList contactList={contactList} />
     </>
   )
